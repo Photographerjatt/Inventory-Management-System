@@ -3,4 +3,5 @@ This repository contains all the file of Inventory Management System Assignment 
 ## About this repository
 This repository contains 4 files
 
- ##1.AddingProduct.ipynb: It adds
+ ## 1.AddingProduct.ipynb:
+ It adds
